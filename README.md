@@ -12,4 +12,4 @@ Before we begin it is advisable to download a set of drivers for ease of use and
 
 All the code written here have been tested on the ESP32 boards and have performed as per the requirements for this workshop. Please note that it is advisable to have the drivers already installed on your computer before the workshop to save time.
 
-** Happy coding :) **
+**Happy coding :)**
